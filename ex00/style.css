@@ -1,0 +1,60 @@
+
+
+
+
+.container{
+    border-style: solid;
+    border-radius: 25px;
+    display: grid;
+    padding: 6;
+}
+
+
+.row{
+    display:flex;
+    text-align:center;
+    padding: 12;
+}
+
+.first{
+    border-radius: 25px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 150px;
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+    background-color: #ff8626
+}
+
+.second{
+    flex: 2;
+    border-radius: 25px;
+    background-color: #6fc7ed;
+    line-height: 150px;
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+    padding: 15px;
+}
+
+.third{
+    flex: 1;
+    
+}
+
+.fourth{
+    border-radius: 25px;
+    text-align: center;
+    background-color: #f68;
+    line-height: 175px;
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+}
+
+.fifth{
+    border-radius: 25px;
+    background-color: #7fa76d;
+    text-align: center;
+    line-height: 150px;
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+}
