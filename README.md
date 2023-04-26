@@ -2,16 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+Creating a html project with css styling, while also incorporating bootstrap in it. 
 
 ## Description
-TODO - How have you solved the problem?
+Utilizing different css function and google I was able to creat something along the line of the project without much else to go off of.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+This is for training purposes.
 
 ## Usage
-TODO - How does it work?
+This is for training purposes.
 ```
 ./my_project argument1 argument2
 ```
